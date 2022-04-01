@@ -1,0 +1,7 @@
+.Example {
+  display: flex;
+  flex-direction: column;
+  background-color: bisque;
+  margin: 5px;
+  padding: 10px;
+}

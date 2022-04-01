@@ -1,10 +1,10 @@
-import Paragraph from "./component/Paragraph/Paragraph";
+import Example from "./component/Example/Example";
 
 function App() {
 
   return (
     <div className="App">
-      <Paragraph />
+      <Example />
     </div>
   );
 }
